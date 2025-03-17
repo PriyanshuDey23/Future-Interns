@@ -1,0 +1,5 @@
+script:- gpt
+narrator:- https://clipchamp.com/en/
+
+
+
